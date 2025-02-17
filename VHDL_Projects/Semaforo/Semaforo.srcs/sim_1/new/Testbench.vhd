@@ -75,8 +75,8 @@ begin
                 z_tb <= std_logic(to_unsigned(i, 4)(1));
                 w_tb <= std_logic(to_unsigned(i, 4)(0));
                 
-                -- Esperamos 10ns para que se estabilicen las salidas
-                wait for 10 ns;
+                -- Esperamos 1 s para que se estabilicen las salidas
+                wait for 40 ns;
                 
                 -- Verificamos las salidas e imprimimos los resultados
                 report "Test " & integer'image(i) & ": " &
@@ -87,7 +87,7 @@ begin
             end loop;
             
             -- Terminamos la simulación
-            wait for 10 ns;
+            wait for 40 ns;
             report "Simulación completada";
             wait;
         end process;

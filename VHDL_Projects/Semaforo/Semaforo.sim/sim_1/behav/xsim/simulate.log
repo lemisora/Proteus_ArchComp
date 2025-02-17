@@ -1,0 +1,36 @@
+Time resolution is 1 ps
+Note: Test 0: Entradas (x,y,z,w) = '0''0''0''0' Salidas (v,a,r) = '1''0''0'
+Time: 40 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 1: Entradas (x,y,z,w) = '0''0''0''1' Salidas (v,a,r) = '1''0''0'
+Time: 80 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 2: Entradas (x,y,z,w) = '0''0''1''0' Salidas (v,a,r) = '1''0''0'
+Time: 120 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 3: Entradas (x,y,z,w) = '0''0''1''1' Salidas (v,a,r) = '1''0''0'
+Time: 160 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 4: Entradas (x,y,z,w) = '0''1''0''0' Salidas (v,a,r) = '1''0''0'
+Time: 200 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 5: Entradas (x,y,z,w) = '0''1''0''1' Salidas (v,a,r) = '1''0''0'
+Time: 240 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 6: Entradas (x,y,z,w) = '0''1''1''0' Salidas (v,a,r) = '1''0''0'
+Time: 280 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 7: Entradas (x,y,z,w) = '0''1''1''1' Salidas (v,a,r) = '0''1''0'
+Time: 320 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 8: Entradas (x,y,z,w) = '1''0''0''0' Salidas (v,a,r) = '0''0''1'
+Time: 360 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 9: Entradas (x,y,z,w) = '1''0''0''1' Salidas (v,a,r) = '0''0''1'
+Time: 400 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 10: Entradas (x,y,z,w) = '1''0''1''0' Salidas (v,a,r) = '0''0''1'
+Time: 440 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 11: Entradas (x,y,z,w) = '1''0''1''1' Salidas (v,a,r) = '0''0''1'
+Time: 480 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 12: Entradas (x,y,z,w) = '1''1''0''0' Salidas (v,a,r) = '0''0''1'
+Time: 520 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 13: Entradas (x,y,z,w) = '1''1''0''1' Salidas (v,a,r) = '0''0''1'
+Time: 560 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 14: Entradas (x,y,z,w) = '1''1''1''0' Salidas (v,a,r) = '0''0''1'
+Time: 600 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Test 15: Entradas (x,y,z,w) = '1''1''1''1' Salidas (v,a,r) = '0''0''1'
+Time: 640 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+Note: Simulación completada
+Time: 680 ns  Iteration: 0  Process: /Testbench/stimulus  File: /home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd
+INFO: xsimkernel Simulation Memory Usage: 487304 KB (Peak: 540736 KB), Simulation CPU Usage: 2420 ms

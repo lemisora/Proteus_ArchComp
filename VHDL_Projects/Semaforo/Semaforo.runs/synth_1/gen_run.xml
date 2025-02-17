@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="synth_1" LaunchPart="xc7k70tfbv676-1" LaunchTime="1739825149">
-  <File Type="VDS-TIMINGSUMMARY" Name="SemaforoLog_timing_summary_synth.rpt"/>
   <File Type="RDS-DCP" Name="SemaforoLog.dcp"/>
-  <File Type="RDS-UTIL-PB" Name="SemaforoLog_utilization_synth.pb"/>
-  <File Type="RDS-UTIL" Name="SemaforoLog_utilization_synth.rpt"/>
-  <File Type="RDS-PROPCONSTRS" Name="SemaforoLog_drc_synth.rpt"/>
   <File Type="RDS-RDS" Name="SemaforoLog.vds"/>
   <File Type="REPORTS-TCL" Name="SemaforoLog_reports.tcl"/>
-  <File Type="VDS-TIMING-PB" Name="SemaforoLog_timing_summary_synth.pb"/>
   <File Type="PA-TCL" Name="SemaforoLog.tcl"/>
+  <File Type="RDS-UTIL" Name="SemaforoLog_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="SemaforoLog_utilization_synth.pb"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/SemaforoLog.vhd">

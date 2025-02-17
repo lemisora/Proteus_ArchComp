@@ -1,4 +1,2 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/lemisora/Vivado/Semaforo/Semaforo.srcs/sources_1/new/SemaforoLog.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'SemaforoLog'
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/lemisora/Vivado/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/lemisora/repos/Proteus_ArchComp/VHDL_Projects/Semaforo/Semaforo.srcs/sim_1/new/Testbench.vhd" into library xil_defaultlib
 INFO: [VRFC 10-3107] analyzing entity 'Testbench'
