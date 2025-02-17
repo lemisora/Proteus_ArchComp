@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Semaforo.srcs/sources_1/new/SemaforoLog.vhd" \
+"../../../../Semaforo.srcs/sim_1/new/Testbench.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7k70tfbv676-1" LaunchTime="1739825242">
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="SemaforoLog_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS" Name="SemaforoLog_routed.rqs"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BG-BGN" Name="SemaforoLog.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="SemaforoLog.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="SemaforoLog.ltx"/>
+  <File Type="RBD_FILE" Name="SemaforoLog.rbd"/>
+  <File Type="NPI_FILE" Name="SemaforoLog.npi"/>
+  <File Type="RNPI_FILE" Name="SemaforoLog.rnpi"/>
+  <File Type="CFI_FILE" Name="SemaforoLog.cfi"/>
+  <File Type="RCFI_FILE" Name="SemaforoLog.rcfi"/>
+  <File Type="PL-PDI-FILE" Name="SemaforoLog_pld.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="SemaforoLog_boot.pdi"/>
+  <File Type="RDI-RDI" Name="SemaforoLog.vdi"/>
+  <File Type="PDI-FILE" Name="SemaforoLog.pdi"/>
+  <File Type="BITSTR-MMI" Name="SemaforoLog.mmi"/>
+  <File Type="BITSTR-BMM" Name="SemaforoLog_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="SemaforoLog.nky"/>
+  <File Type="BITSTR-RBT" Name="SemaforoLog.rbt"/>
+  <File Type="BITSTR-MSK" Name="SemaforoLog.msk"/>
+  <File Type="BG-BIN" Name="SemaforoLog.bin"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="BG-BIT" Name="SemaforoLog.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="SemaforoLog_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="SemaforoLog_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="SemaforoLog_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="SemaforoLog_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="SemaforoLog_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="SemaforoLog_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="SemaforoLog_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="SemaforoLog_postroute_physopt.dcp"/>
+  <File Type="BG-DRC" Name="SemaforoLog.drc"/>
+  <File Type="ROUTE-RQS-PB" Name="SemaforoLog_rqs_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="SemaforoLog_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="SemaforoLog_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW" Name="SemaforoLog_bus_skew_routed.rpt"/>
+  <File Type="PA-TCL" Name="SemaforoLog.tcl"/>
+  <File Type="INIT-TIMING" Name="SemaforoLog_timing_summary_init.rpt"/>
+  <File Type="OPT-DCP" Name="SemaforoLog_opt.dcp"/>
+  <File Type="OPT-RQA-PB" Name="SemaforoLog_rqa_opted.pb"/>
+  <File Type="OPT-DRC" Name="SemaforoLog_drc_opted.rpt"/>
+  <File Type="PLACE-TIMING" Name="SemaforoLog_timing_summary_placed.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="SemaforoLog_methodology_drc_opted.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="SemaforoLog_utilization_placed.pb"/>
+  <File Type="OPT-HWDEF" Name="SemaforoLog.hwdef"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="SemaforoLog_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="REPORTS-TCL" Name="SemaforoLog_reports.tcl"/>
+  <File Type="OPT-TIMING" Name="SemaforoLog_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="SemaforoLog_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="SemaforoLog_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="SemaforoLog_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="SemaforoLog_placed.dcp"/>
+  <File Type="PLACE-RQA-PB" Name="SemaforoLog_rqa_placed.pb"/>
+  <File Type="PLACE-IO" Name="SemaforoLog_io_placed.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="SemaforoLog_timing_summary_physopted.rpt"/>
+  <File Type="PLACE-CLK" Name="SemaforoLog_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="SemaforoLog_utilization_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="SemaforoLog_control_sets_placed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="SemaforoLog_methodology_drc_routed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="SemaforoLog_incremental_reuse_placed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="SemaforoLog_methodology_drc_routed.pb"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="SemaforoLog_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="SemaforoLog_drc_routed.rpx"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="SemaforoLog_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="SemaforoLog_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="SemaforoLog_drc_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="SemaforoLog_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="SemaforoLog_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="SemaforoLog_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="SemaforoLog_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="SemaforoLog_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="SemaforoLog_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="SemaforoLog_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="SemaforoLog_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="SemaforoLog_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="SemaforoLog_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="SemaforoLog_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="SemaforoLog_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="SemaforoLog_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="SemaforoLog_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="SemaforoLog_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="SemaforoLog_clock_utilization_routed.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/SemaforoLog.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/OR_4.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/AND_3.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="SemaforoLog"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
