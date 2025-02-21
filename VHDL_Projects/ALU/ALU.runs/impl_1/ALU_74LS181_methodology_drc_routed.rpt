@@ -1,0 +1,72 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.1 (win64) Build 5076996 Wed May 22 18:37:14 MDT 2024
+| Date         : Fri Feb 21 01:33:12 2025
+| Host         : DESKTOP-OLJFD8P running 64-bit major release  (build 9200)
+| Command      : report_methodology -file ALU_74LS181_methodology_drc_routed.rpt -pb ALU_74LS181_methodology_drc_routed.pb -rpx ALU_74LS181_methodology_drc_routed.rpx
+| Design       : ALU_74LS181
+| Device       : xc7a35tcpg236-1
+| Speed File   : -1
+| Design State : Fully Routed
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+             Max violations: <unlimited>
+             Violations found: 7
++-----------+------------------+--------------------------------+------------+
+| Rule      | Severity         | Description                    | Violations |
++-----------+------------------+--------------------------------+------------+
+| TIMING-17 | Critical Warning | Non-clocked sequential cell    | 1          |
+| TIMING-20 | Warning          | Non-clocked latch              | 5          |
+| LATCH-1   | Advisory         | Existing latches in the design | 1          |
++-----------+------------------+--------------------------------+------------+
+
+2. REPORT DETAILS
+-----------------
+TIMING-17#1 Critical Warning
+Non-clocked sequential cell  
+The clock pin M_sync_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-20#1 Warning
+Non-clocked latch  
+The latch Carry_reg[0] cannot be properly analyzed as its control pin Carry_reg[0]/G is not reached by a timing clock
+Related violations: <none>
+
+TIMING-20#2 Warning
+Non-clocked latch  
+The latch Carry_reg[1] cannot be properly analyzed as its control pin Carry_reg[1]/G is not reached by a timing clock
+Related violations: <none>
+
+TIMING-20#3 Warning
+Non-clocked latch  
+The latch Carry_reg[2] cannot be properly analyzed as its control pin Carry_reg[2]/G is not reached by a timing clock
+Related violations: <none>
+
+TIMING-20#4 Warning
+Non-clocked latch  
+The latch Carry_reg[3] cannot be properly analyzed as its control pin Carry_reg[3]/G is not reached by a timing clock
+Related violations: <none>
+
+TIMING-20#5 Warning
+Non-clocked latch  
+The latch Carry_reg[4] cannot be properly analyzed as its control pin Carry_reg[4]/G is not reached by a timing clock
+Related violations: <none>
+
+LATCH-1#1 Advisory
+Existing latches in the design  
+There are 5 latches found in the design. Inferred latches are often the result of HDL coding mistakes, such as incomplete if or case statements.
+Related violations: <none>
+
+
