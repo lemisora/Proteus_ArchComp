@@ -25,7 +25,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Users/DELL/Contador_2displays/Contador_2displays.runs/synth_1'
+HD_PWD='C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_2displays/Contador_2displays.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log

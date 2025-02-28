@@ -4,67 +4,60 @@
   <File Type="PA-TCL" Name="ShiftRegisters.tcl"/>
   <File Type="ROUTE-PWR-SUM" Name="ShiftRegisters_power_summary_routed.pb"/>
   <File Type="REPORTS-TCL" Name="ShiftRegisters_reports.tcl"/>
-  <File Type="OPT-RQA-PB" Name="ShiftRegisters_rqa_opted.pb"/>
+  <File Type="BITSTR-MSK" Name="ShiftRegisters.msk"/>
+  <File Type="ROUTE-CLK" Name="ShiftRegisters_clock_utilization_routed.rpt"/>
+  <File Type="RDI-RDI" Name="ShiftRegisters.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="ShiftRegisters_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="ShiftRegisters.bit"/>
+  <File Type="BG-DRC" Name="ShiftRegisters.drc"/>
+  <File Type="BG-BGN" Name="ShiftRegisters.bgn"/>
+  <File Type="BG-BIN" Name="ShiftRegisters.bin"/>
+  <File Type="BITSTR-RBT" Name="ShiftRegisters.rbt"/>
+  <File Type="BITSTR-NKY" Name="ShiftRegisters.nky"/>
+  <File Type="BITSTR-BMM" Name="ShiftRegisters_bd.bmm"/>
   <File Type="BITSTR-MMI" Name="ShiftRegisters.mmi"/>
-  <File Type="OPT-METHODOLOGY-DRC" Name="ShiftRegisters_methodology_drc_opted.rpt"/>
-  <File Type="INIT-TIMING" Name="ShiftRegisters_timing_summary_init.rpt"/>
-  <File Type="OPT-TIMING" Name="ShiftRegisters_timing_summary_opted.rpt"/>
-  <File Type="OPT-DCP" Name="ShiftRegisters_opt.dcp"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="ShiftRegisters_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-SYSDEF" Name="ShiftRegisters.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="ShiftRegisters.ltx"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
   <File Type="OPT-DRC" Name="ShiftRegisters_drc_opted.rpt"/>
   <File Type="OPT-HWDEF" Name="ShiftRegisters.hwdef"/>
-  <File Type="PWROPT-DCP" Name="ShiftRegisters_pwropt.dcp"/>
-  <File Type="PWROPT-DRC" Name="ShiftRegisters_drc_pwropted.rpt"/>
-  <File Type="PWROPT-TIMING" Name="ShiftRegisters_timing_summary_pwropted.rpt"/>
-  <File Type="PLACE-DCP" Name="ShiftRegisters_placed.dcp"/>
   <File Type="PLACE-IO" Name="ShiftRegisters_io_placed.rpt"/>
-  <File Type="PLACE-CLK" Name="ShiftRegisters_clock_utilization_placed.rpt"/>
   <File Type="PLACE-UTIL" Name="ShiftRegisters_utilization_placed.rpt"/>
   <File Type="PLACE-UTIL-PB" Name="ShiftRegisters_utilization_placed.pb"/>
   <File Type="PLACE-CTRL" Name="ShiftRegisters_control_sets_placed.rpt"/>
-  <File Type="PLACE-SIMILARITY" Name="ShiftRegisters_incremental_reuse_placed.rpt"/>
   <File Type="PLACE-PRE-SIMILARITY" Name="ShiftRegisters_incremental_reuse_pre_placed.rpt"/>
-  <File Type="BG-BIN" Name="ShiftRegisters.bin"/>
-  <File Type="PLACE-TIMING" Name="ShiftRegisters_timing_summary_placed.rpt"/>
-  <File Type="ROUTE-PWR-RPX" Name="ShiftRegisters_power_routed.rpx"/>
-  <File Type="PLACE-RQA-PB" Name="ShiftRegisters_rqa_placed.pb"/>
-  <File Type="POSTPLACE-PWROPT-DCP" Name="ShiftRegisters_postplace_pwropt.dcp"/>
-  <File Type="BITSTR-MSK" Name="ShiftRegisters.msk"/>
-  <File Type="POSTPLACE-PWROPT-TIMING" Name="ShiftRegisters_timing_summary_postplace_pwropted.rpt"/>
-  <File Type="PHYSOPT-DCP" Name="ShiftRegisters_physopt.dcp"/>
-  <File Type="PHYSOPT-DRC" Name="ShiftRegisters_drc_physopted.rpt"/>
-  <File Type="BITSTR-RBT" Name="ShiftRegisters.rbt"/>
-  <File Type="PHYSOPT-TIMING" Name="ShiftRegisters_timing_summary_physopted.rpt"/>
-  <File Type="ROUTE-ERROR-DCP" Name="ShiftRegisters_routed_error.dcp"/>
-  <File Type="ROUTE-DCP" Name="ShiftRegisters_routed.dcp"/>
-  <File Type="ROUTE-BLACKBOX-DCP" Name="ShiftRegisters_routed_bb.dcp"/>
   <File Type="ROUTE-DRC" Name="ShiftRegisters_drc_routed.rpt"/>
   <File Type="ROUTE-DRC-PB" Name="ShiftRegisters_drc_routed.pb"/>
-  <File Type="ROUTE-DRC-RPX" Name="ShiftRegisters_drc_routed.rpx"/>
-  <File Type="ROUTE-METHODOLOGY-DRC" Name="ShiftRegisters_methodology_drc_routed.rpt"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="ShiftRegisters_methodology_drc_routed.rpx"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="ShiftRegisters_methodology_drc_routed.pb"/>
-  <File Type="ROUTE-RQS-PB" Name="ShiftRegisters_rqs_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="ShiftRegisters_power_routed.rpx"/>
   <File Type="ROUTE-STATUS" Name="ShiftRegisters_route_status.rpt"/>
   <File Type="ROUTE-STATUS-PB" Name="ShiftRegisters_route_status.pb"/>
+  <File Type="ROUTE-DCP" Name="ShiftRegisters_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="ShiftRegisters_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="ShiftRegisters_routed_bb.dcp"/>
   <File Type="ROUTE-TIMINGSUMMARY" Name="ShiftRegisters_timing_summary_routed.rpt"/>
   <File Type="ROUTE-TIMING-PB" Name="ShiftRegisters_timing_summary_routed.pb"/>
   <File Type="ROUTE-TIMING-RPX" Name="ShiftRegisters_timing_summary_routed.rpx"/>
   <File Type="ROUTE-SIMILARITY" Name="ShiftRegisters_incremental_reuse_routed.rpt"/>
-  <File Type="ROUTE-CLK" Name="ShiftRegisters_clock_utilization_routed.rpt"/>
   <File Type="ROUTE-BUS-SKEW" Name="ShiftRegisters_bus_skew_routed.rpt"/>
   <File Type="ROUTE-BUS-SKEW-PB" Name="ShiftRegisters_bus_skew_routed.pb"/>
   <File Type="ROUTE-BUS-SKEW-RPX" Name="ShiftRegisters_bus_skew_routed.rpx"/>
+  <File Type="OPT-DCP" Name="ShiftRegisters_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="ShiftRegisters_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="ShiftRegisters_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="ShiftRegisters_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="ShiftRegisters_physopt.dcp"/>
   <File Type="POSTROUTE-PHYSOPT-DCP" Name="ShiftRegisters_postroute_physopt.dcp"/>
   <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="ShiftRegisters_postroute_physopt_bb.dcp"/>
   <File Type="POSTROUTE-PHYSOPT-TIMING" Name="ShiftRegisters_timing_summary_postroute_physopted.rpt"/>
   <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="ShiftRegisters_timing_summary_postroute_physopted.pb"/>
   <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="ShiftRegisters_timing_summary_postroute_physopted.rpx"/>
   <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="ShiftRegisters_bus_skew_postroute_physopted.rpt"/>
-  <File Type="BG-BIT" Name="ShiftRegisters.bit"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="ShiftRegisters_bus_skew_postroute_physopted.pb"/>
   <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="ShiftRegisters_bus_skew_postroute_physopted.rpx"/>
-  <File Type="BITSTR-NKY" Name="ShiftRegisters.nky"/>
-  <File Type="BITSTR-BMM" Name="ShiftRegisters_bd.bmm"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="ShiftRegisters_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="ShiftRegisters_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="ShiftRegisters_methodology_drc_routed.rpx"/>
   <File Type="PDI-FILE" Name="ShiftRegisters.pdi"/>
   <File Type="BOOT-PDI-FILE" Name="ShiftRegisters_boot.pdi"/>
   <File Type="PL-PDI-FILE" Name="ShiftRegisters_pld.pdi"/>
@@ -73,13 +66,6 @@
   <File Type="RNPI_FILE" Name="ShiftRegisters.rnpi"/>
   <File Type="NPI_FILE" Name="ShiftRegisters.npi"/>
   <File Type="RBD_FILE" Name="ShiftRegisters.rbd"/>
-  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
-  <File Type="BITSTR-LTX" Name="ShiftRegisters.ltx"/>
-  <File Type="BITSTR-SYSDEF" Name="ShiftRegisters.sysdef"/>
-  <File Type="BG-BGN" Name="ShiftRegisters.bgn"/>
-  <File Type="BG-DRC" Name="ShiftRegisters.drc"/>
-  <File Type="RDI-RDI" Name="ShiftRegisters.vdi"/>
-  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
   <File Type="ROUTE-RQS" Name="ShiftRegisters_routed.rqs"/>
   <File Type="POSTROUTE-PHYSOPT-RQS" Name="ShiftRegisters_postroute_physopted.rqs"/>
   <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
@@ -117,9 +103,7 @@
     </Config>
   </FileSet>
   <Strategy Version="1" Minor="2">
-    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024">
-      <Desc>Default settings for Implementation.</Desc>
-    </StratHandle>
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
     <Step Id="init_design"/>
     <Step Id="opt_design"/>
     <Step Id="power_opt_design"/>
@@ -129,5 +113,6 @@
     <Step Id="route_design"/>
     <Step Id="post_route_phys_opt_design"/>
     <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
   </Strategy>
 </GenRun>

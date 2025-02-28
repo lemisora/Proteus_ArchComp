@@ -1,7 +1,7 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2024.1 (win64) Build 5076996 Wed May 22 18:37:14 MDT 2024
-| Date         : Fri Feb 21 00:49:26 2025
+| Date         : Wed Feb 26 12:29:33 2025
 | Host         : DESKTOP-OLJFD8P running 64-bit major release  (build 9200)
 | Command      : report_control_sets -verbose -file contador_7seg_control_sets_placed.rpt
 | Design       : contador_7seg

@@ -1,6 +1,6 @@
 
 { 
-    crc :  2899954281732344815  , 
+    crc :  9069639092647169882  , 
     ccp_crc :  0  , 
     cmdline : " --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot contador_7seg_behav xil_defaultlib.contador_7seg" , 
     buildDate : "May 22 2024" , 
