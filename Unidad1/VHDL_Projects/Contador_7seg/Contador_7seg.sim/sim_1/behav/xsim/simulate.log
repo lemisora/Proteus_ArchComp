@@ -1,1 +1,35 @@
 Time resolution is 1 ps
+Note: Display muestra: '-'
+Time: 0 ps  Iteration: 0  Process: /tb_contador_7seg/line__70  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sim_1/new/tb_contador_7seg.vhd
+Note: Display muestra: '0'
+Time: 0 ps  Iteration: 1  Process: /tb_contador_7seg/line__70  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sim_1/new/tb_contador_7seg.vhd
+Note: Contador: 0, Dirección: '1'
+Time: 75 ns  Iteration: 2  Process: /tb_contador_7seg/uut/line__55  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sources_1/new/contador_7seg.vhd
+Note: Contador: 0, Dirección: '0'
+Time: 195 ns  Iteration: 2  Process: /tb_contador_7seg/uut/line__55  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sources_1/new/contador_7seg.vhd
+Note: Display muestra: '1'
+Time: 195 ns  Iteration: 4  Process: /tb_contador_7seg/line__70  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sim_1/new/tb_contador_7seg.vhd
+Note: Contador: 1, Dirección: '0'
+Time: 315 ns  Iteration: 2  Process: /tb_contador_7seg/uut/line__55  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sources_1/new/contador_7seg.vhd
+Note: Display muestra: '2'
+Time: 315 ns  Iteration: 4  Process: /tb_contador_7seg/line__70  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sim_1/new/tb_contador_7seg.vhd
+Note: Contador: 2, Dirección: '0'
+Time: 435 ns  Iteration: 2  Process: /tb_contador_7seg/uut/line__55  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sources_1/new/contador_7seg.vhd
+Note: Display muestra: '3'
+Time: 435 ns  Iteration: 4  Process: /tb_contador_7seg/line__70  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sim_1/new/tb_contador_7seg.vhd
+Note: Contador: 3, Dirección: '0'
+Time: 555 ns  Iteration: 2  Process: /tb_contador_7seg/uut/line__55  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sources_1/new/contador_7seg.vhd
+Note: Display muestra: '4'
+Time: 555 ns  Iteration: 4  Process: /tb_contador_7seg/line__70  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sim_1/new/tb_contador_7seg.vhd
+Note: Contador: 4, Dirección: '0'
+Time: 675 ns  Iteration: 2  Process: /tb_contador_7seg/uut/line__55  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sources_1/new/contador_7seg.vhd
+Note: Display muestra: '5'
+Time: 675 ns  Iteration: 4  Process: /tb_contador_7seg/line__70  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sim_1/new/tb_contador_7seg.vhd
+Note: Contador: 5, Dirección: '0'
+Time: 795 ns  Iteration: 2  Process: /tb_contador_7seg/uut/line__55  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sources_1/new/contador_7seg.vhd
+Note: Display muestra: '6'
+Time: 795 ns  Iteration: 4  Process: /tb_contador_7seg/line__70  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sim_1/new/tb_contador_7seg.vhd
+Note: Contador: 6, Dirección: '0'
+Time: 915 ns  Iteration: 2  Process: /tb_contador_7seg/uut/line__55  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sources_1/new/contador_7seg.vhd
+Note: Display muestra: '7'
+Time: 915 ns  Iteration: 4  Process: /tb_contador_7seg/line__70  File: C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sim_1/new/tb_contador_7seg.vhd

@@ -1,2 +1,4 @@
 INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sources_1/new/contador_7seg.vhd" into library xil_defaultlib
 INFO: [VRFC 10-3107] analyzing entity 'contador_7seg'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/DELL/Documents/GitHub/Proteus_ArchComp/Unidad1/VHDL_Projects/Contador_7seg/Contador_7seg.srcs/sim_1/new/tb_contador_7seg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_contador_7seg'
